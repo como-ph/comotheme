@@ -1,0 +1,14 @@
+Package: comotheme
+Type: Package
+Title: CoMo-PH Theme for Plots in R
+Version: 0.1.0
+Authors@R: person(given = "Ernest", family = "Guevarra", 
+    email = "ernest@guevarra.io", role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0002-4887-4415"))
+Description: Based on the `flatly` Bootstrap theme from Bootswatch 
+    <https://bootswatch.com>, this package provides colour palettes and related
+    themes for plots in R. The colour palettes and themes are usable in both
+    base R graphics and for ggplot.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
